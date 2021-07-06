@@ -3,9 +3,28 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-size: 50px;
+    color: #575757;
+}
+
+h2 {
+    font-size: 40px;
+}
+
 .flexible-container {
     display: flex;
     margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+}
+
+.orange-color {
+    color: orange;
 }
 
 .link-button {
@@ -18,19 +37,10 @@ body {
     margin-top: 10px;
 }
 
-h1 {
-    font-size: 50px;
-    color: #575757;
-}
-
-h2 {
-    font-size: 40px;
-}
-
-.half-width {
-    width: 50%;
+.img-width {
+    width: 500px;
     padding: 5%;
-    text-align: justify;
+    margin-top: -100px;
 }
 
 .half-width2 {
@@ -48,16 +58,6 @@ h2 {
 
 .my-recepies p {
     text-align: center;
-}
-
-.orange-color {
-    color: orange;
-}
-
-.img-width {
-    width: 500px;
-    padding: 5%;
-    margin-top: -100px;
 }
 
 .green-color {
@@ -103,10 +103,6 @@ p {
 
 .single-counter p {
     margin-bottom: 10px;
-}
-
-.float-left {
-    float: left;
 }
 
 .counter_client {
