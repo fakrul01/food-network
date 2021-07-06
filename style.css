@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 55px;
     color: #575757;
 }
 
@@ -97,14 +97,6 @@ p {
     justify-content: center;
 }
 
-.single-counter {
-    width: 33.3%;
-}
-
-.single-counter p {
-    margin-bottom: 10px;
-}
-
 .counter_client {
     text-align: center;
     box-shadow: 10px 10px 40px grey;
@@ -120,11 +112,11 @@ p {
 
 .recipie-width {
     width: 25%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
     text-align: justify;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 5px 5px 20px gray;
 }
 
